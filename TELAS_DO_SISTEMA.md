@@ -48,7 +48,6 @@ A seleção por aplicação conduz o usuário por um fluxo orientado ao cenário
 
 A tela de análise reúne gráficos, dados hidráulicos e recursos para avaliar a curva selecionada. Quando aplicável, também permite simular ajustes admitidos pelo sistema.
 
-**Imagem prevista:** `img/telas/07_analise_ajuste_curvas.png`
 
 ![Análise e ajustes](./img/telas/07_analise_ajuste_curvas.png)
 
